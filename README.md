@@ -17,7 +17,7 @@
 
   ##
   
-![Snake animation](https://github.com/HeroesIC/.github/blob/main/cobrinha.yml)
+![Snake animation](https://github.com/HeroesIC/.github/blob/output/github-contribution-grid-snake.svg)
   
 <!-- 
 ![Snake animation](https://github.com/Grucci/grucci/blob/output/github-contribution-grid-snake.svg)
