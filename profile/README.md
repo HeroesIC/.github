@@ -1,6 +1,6 @@
 # Bem-vindo a nossa Comunidade 👯
 
-<img alt="HeroesIC-MANIFESTO" src="../images/manifesto.png">
+<img alt="HeroesIC-MANIFESTO" src="./images/manifesto.png">
 
 <br/>
 
