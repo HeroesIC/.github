@@ -1,6 +1,6 @@
 # Bem-vindo a nossa Comunidade 👯
 
-![Manifesto](./images/manifesto.png)
+<img alt="HeroesIC-MANIFESTO" src="../images/manifesto.png">
 
 <br/>
 
@@ -9,9 +9,6 @@
   <img align="center" alt="HeroesIC-GIT" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="HeroesIC-Terraform" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg">
   <img align="center" alt="HeroesIC-K8S" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
-  <img align="center" alt="HeroesIC-" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/">
-  <img align="center" alt="HeroesIC-" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/">
-  <img align="center" alt="HeroesIC-" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/">
 </div>
 
 
