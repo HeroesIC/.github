@@ -1,13 +1,19 @@
 # Bem-vindo a nossa Comunidade 👯
 
+![Manifesto](./images/manifesto.png)
+
 <br/>
 
-<div>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=souzare&show_icons=true&count_private=true&include_all_commits=true&custom_title=HeroesCI's%20GitHub%20Stats&border_radius=10&theme=yeblu"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souzare&layout=compact&border_radius=10&theme=yeblu">
+### Tecnologias com as quais trabalhamos
+<div style="display: inline_block">
+  <img align="center" alt="HeroesIC-GIT" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="HeroesIC-Terraform" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg">
+  <img align="center" alt="HeroesIC-K8S" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
+  <img align="center" alt="HeroesIC-" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/">
+  <img align="center" alt="HeroesIC-" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/">
+  <img align="center" alt="HeroesIC-" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/">
 </div>
 
-<br/>
 
 ### Provedores de Nuvem com os quais trabalhamos
 
@@ -18,11 +24,15 @@
 </div>
 
 <br/>
-  
-![Snake animation](https://github.com/HeroesIC/.github/blob/output/github-contribution-grid-snake.svg)
+
   
 <!-- 
-![Snake animation](https://github.com/Grucci/grucci/blob/output/github-contribution-grid-snake.svg)
+<div>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=souzare&show_icons=true&count_private=true&include_all_commits=true&custom_title=HeroesCI's%20GitHub%20Stats&border_radius=10&theme=yeblu"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souzare&layout=compact&border_radius=10&theme=yeblu">
+</div>
+
+![Snake animation](https://github.com/HeroesIC/.github/blob/output/github-contribution-grid-snake.svg)
 - 🔭 I’m currently working on AWS
 - 🌱 I’m currently learning about cloud providers
 - 📫 How to reach me: felipe.grucci@gmail.com
