@@ -11,6 +11,7 @@
   <img align="center" alt="HeroesIC-K8S" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
   <img align="center" alt="HeroesIC-Dynatrace" width="5%" src="./images/pngaaa.com-6291010.png">
   <img align="center" alt="HeroesIC-Datadog" width="5%" src="./images/DDOG_BIG.png">
+  <img align="center" alt="HeroesIC-NewRelic" width="5%" src="./images/new_relic.png">
 </div>
 
 
