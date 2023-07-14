@@ -24,7 +24,7 @@
   <img align="center" alt="HeroesIC-GCP" width="7%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">&nbsp;
   <img align="center" alt="HeroesIC-Azure" width="5.4%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
   <img align="center" alt="HeroesIC-Azure" width="5.4%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
-  <img align="right" alt="Grucci-groot" height="480" width="230" src="https://www.hopkins.kyschools.us/cms/lib/KY02204223/Centricity/Domain/570/giphycode.gif">
+  <img align="right" alt="Grucci-groot" height="230" width="480" src="https://www.hopkins.kyschools.us/cms/lib/KY02204223/Centricity/Domain/570/giphycode.gif">
 </div>
 
 <br/>
