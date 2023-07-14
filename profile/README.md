@@ -22,8 +22,8 @@
 
 <br/>
 
-![Snake animation](https://github.com/HeroesIC/.github/blob/main/profile/github-contribution-grid-snake.svg)
-  dist/github-contribution-grid-snake.svg
+![Snake animation](https://github.com/Grucci/grucci/blob/output/github-contribution-grid-snake.svg)
+
 <!-- 
 <div>
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=souzare&show_icons=true&count_private=true&include_all_commits=true&custom_title=HeroesCI's%20GitHub%20Stats&border_radius=10&theme=yeblu"/>
