@@ -24,6 +24,7 @@
   <img align="center" alt="HeroesIC-GCP" width="7%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">&nbsp;
   <img align="center" alt="HeroesIC-Azure" width="5.4%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
   <img align="center" alt="HeroesIC-Azure" width="5.4%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
+  <img align="right" alt="Grucci-groot" height="200" width="230" src="https://64.media.tumblr.com/96901d1ecb19b4323a4881fff2a003e1/tumblr_oomnbyD4AT1sejmmmo1_400.gifv">
 </div>
 
 <br/>
@@ -37,14 +38,7 @@
 </div>
 
 ![Snake animation](https://github.com/HeroesIC/.github/blob/output/github-contribution-grid-snake.svg)
-- 🔭 I’m currently working on AWS
-- 🌱 I’m currently learning about cloud providers
-- 📫 How to reach me: felipe.grucci@gmail.com
-👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ... 
-- - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 http://code.benco.io/icon-collection/azure-icons/
