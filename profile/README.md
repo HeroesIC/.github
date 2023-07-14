@@ -5,26 +5,37 @@
 <br/>
 
 ### Tecnologias com as quais trabalhamos
+
+### Automation
 <div style="display: inline_block">
   <img align="center" alt="HeroesIC-GIT" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="HeroesIC-Terraform" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg">
   <img align="center" alt="HeroesIC-Ansible" width="5%" src="./images/ansible.png">
   <img align="center" alt="HeroesIC-Ansible" width="5%" src="./images/pulumi.png">
-  <img align="center" alt="HeroesIC-K8S" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
-  <img align="center" alt="HeroesIC-Dynatrace" width="5%" src="./images/pngaaa.com-6291010.png">
-  <img align="center" alt="HeroesIC-Datadog" width="5%" src="./images/DDOG_BIG.png">
-  <img align="center" alt="HeroesIC-NewRelic" width="5%" src="./images/new_relic.png">
 </div>
 
 ##
 
-### Provedores de Nuvem com os quais trabalhamos
-
+### Cloud
 <div style="display: inline_block">
   <img align="center" alt="HeroesIC-AWS" width="7%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
   <img align="center" alt="HeroesIC-GCP" width="7%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">&nbsp;
   <img align="center" alt="HeroesIC-Azure" width="5.4%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
   <img align="center" alt="HeroesIC-Azure" width="5.4%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
+</div>
+
+##
+
+### DevOps
+<div style="display: inline_block">
+  <img align="center" alt="HeroesIC-K8S" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
+</div>
+
+### observability
+<div style="display: inline_block">
+  <img align="center" alt="HeroesIC-Dynatrace" width="5%" src="./images/pngaaa.com-6291010.png">
+  <img align="center" alt="HeroesIC-Datadog" width="5%" src="./images/DDOG_BIG.png">
+  <img align="center" alt="HeroesIC-NewRelic" width="5%" src="./images/new_relic.png">
 </div>
 
 ##
