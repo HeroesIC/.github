@@ -8,7 +8,6 @@
 
 ### Automation
 <div style="display: inline_block">
-  <img align="right" alt="HeroesIC-gif" height="230" width="480" src="https://www.hopkins.kyschools.us/cms/lib/KY02204223/Centricity/Domain/570/giphycode.gif">
   <img align="center" alt="HeroesIC-GIT" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="HeroesIC-Terraform" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg">
   <img align="center" alt="HeroesIC-Ansible" width="5%" src="./images/ansible.png">&nbsp;
@@ -21,8 +20,8 @@
 <div style="display: inline_block">
   <img align="center" alt="HeroesIC-AWS" width="7%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
   <img align="center" alt="HeroesIC-GCP" width="7%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">&nbsp;
-  <img align="center" alt="HeroesIC-Azure" width="5.4%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
-  <img align="center" alt="HeroesIC-OCI" width="5.4%" src="./images/oci.png">
+  <img align="center" alt="HeroesIC-Azure" width="5.4%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">&nbsp;&nbsp;
+  <img align="center" alt="HeroesIC-OCI" width="9%" src="./images/oci.png">
 </div>
 
 ##
@@ -32,17 +31,18 @@
   <img align="center" alt="HeroesIC-K8S" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
 </div>
 
-### observability
+### Observability
 <div style="display: inline_block">
-  <img align="center" alt="HeroesIC-Dynatrace" width="5%" src="./images/dynatarce.png">
-  <img align="center" alt="HeroesIC-Datadog" width="5%" src="./images/DDOG_BIG.png">
-  <img align="center" alt="HeroesIC-NewRelic" width="5%" src="./images/new_relic.png">
+  <img align="center" alt="HeroesIC-Dynatrace" width="5%" src="./images/dynatrace.png">&nbsp;
+  <img align="center" alt="HeroesIC-NewRelic" width="5%" src="./images/new_relic.png">&nbsp;
+  <img align="center" alt="HeroesIC-Datadog" width="5.3%" src="./images/DDOG_BIG.png">&nbsp;
 </div>
 
 ##
 <br/>
 
 ![Snake animation](https://github.com/HeroesIC/.github/blob/output/github-contribution-grid-snake.svg)
+<img align="right" alt="HeroesIC-gif" height="230" width="480" src="https://www.hopkins.kyschools.us/cms/lib/KY02204223/Centricity/Domain/570/giphycode.gif">
 
 <!-- 
 <div>
