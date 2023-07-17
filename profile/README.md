@@ -28,14 +28,15 @@
 
 ### DevOps
 <div style="display: inline_block">
-  <img align="center" alt="HeroesIC-K8S" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
+  <img align="center" alt="HeroesIC-K8S" width="6.5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
+  <img align="center" alt="HeroesIC-Docker" width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
 </div>
 
 ### Observability
 <div style="display: inline_block">
   <img align="center" alt="HeroesIC-Dynatrace" width="5%" src="./images/dynatrace.png">&nbsp;
   <img align="center" alt="HeroesIC-NewRelic" width="5%" src="./images/new_relic.png">&nbsp;
-  <img align="center" alt="HeroesIC-Datadog" width="5.3%" src="./images/DDOG_BIG.png">&nbsp;
+  <img align="center" alt="HeroesIC-Datadog" width="5.3%" src="./images/datadog.png">&nbsp;
 </div>
 
 ##
