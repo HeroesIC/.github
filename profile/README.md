@@ -8,6 +8,7 @@
 
 ### Automation
 <div style="display: inline_block">
+  <img align="right" alt="HeroesIC-gif" height="230" width="480" src="https://www.hopkins.kyschools.us/cms/lib/KY02204223/Centricity/Domain/570/giphycode.gif">
   <img align="center" alt="HeroesIC-GIT" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="HeroesIC-Terraform" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg">
   <img align="center" alt="HeroesIC-Ansible" width="5%" src="./images/ansible.png">
